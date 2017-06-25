@@ -1,42 +1,5 @@
 <html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="SBCL 1.3.18 User Manual">
-<meta name="generator" content="makeinfo 4.13">
-<link title="Top" rel="top" href="#Top">
-<link href="http://www.gnu.org/software/texinfo/" rel="generator-home" title="Texinfo Homepage">
-<!--
-
-     This manual is part of the SBCL software system. See the `README'
-     file for more information.
-
-     This manual is largely derived from the manual for the CMUCL
-     system, which was produced at Carnegie Mellon University and later
-     released into the public domain. This manual is in the public
-     domain and is provided with absolutely no warranty. See the
-     `COPYING' and `CREDITS' files for more information.
-   -->
-<meta http-equiv="Content-Style-Type" content="text/css">
-<style type="text/css"><!--
-  pre.display { font-family:inherit }
-  pre.format  { font-family:inherit }
-  pre.smalldisplay { font-family:inherit; font-size:smaller }
-  pre.smallformat  { font-family:inherit; font-size:smaller }
-  pre.smallexample { font-size:smaller }
-  pre.smalllisp    { font-size:smaller }
-  span.sc    { font-variant:small-caps }
-  span.roman { font-family:serif; font-weight:normal; } 
-  span.sansserif { font-family:sans-serif; font-weight:normal; } 
-.node { visibility:hidden; height: 0px; }
-  .menu { visibility:hidden; height: 0px; }
-  .chapter { background-color:#d0e4fe; }
-  .section { background-color:#d0e4fe; }
-  .subsection { background-color:#d0e4fe; }
-  .settitle { background-color:#d0e4fe; }
-  .contents { border: 2px solid black;
-              margin: 1cm 1cm 1cm 1cm; 
-              padding-left: 3mm; }
-  body { padding-left: 3mm; }--></style>
-</head>
 <body>
 <h1 class="settitle">SBCL 1.3.18 User Manual</h1>
    <div class="contents">
