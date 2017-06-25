@@ -1,5 +1,4 @@
 <html lang="en"><head>
-<title>SBCL 1.3.18 User Manual</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="description" content="SBCL 1.3.18 User Manual">
 <meta name="generator" content="makeinfo 4.13">
