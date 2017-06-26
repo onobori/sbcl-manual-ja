@@ -12,7 +12,7 @@
 </li><li><a href="#Commercial-Support">1.2 商用サポート</a>
 </li><li><a href="#Reporting-Bugs">1.3 バグ報告</a>
 <ul>
-<li><a href="#Reporting-Bugs">1.3.1 How to Report Bugs Effectively</a>
+<li><a href="#Reporting-Bugs">1.3.1 バグ報告を効果的に行うには</a>
 </li><li><a href="#Reporting-Bugs">1.3.2 Signal Related Bugs</a>
 </li></ul>
 </li></ul>
@@ -422,14 +422,14 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#dir">(dir)</a>
 <h2 class="unnumbered">sbcl</h2>
 
 <blockquote>
-This manual is part of the SBCL software system. See the
-<samp><span class="file">README</span></samp> file for more information.
+このマニュアルはSBCLソフトウェアシステムの一部です。詳細は
+<samp><span class="file">README</span></samp>を参照してください。
 
-   <p>This manual is largely derived from the manual for the CMUCL system,
-which was produced at Carnegie Mellon University and later released
-into the public domain. This manual is in the public domain and is
-provided with absolutely no warranty. See the <samp><span class="file">COPYING</span></samp> and
-<samp><span class="file">CREDITS</span></samp> files for more information. 
+   <p>このマニュアルは大部分をCMUCLシステムのマニュアルから拝借しています。
+CMUCLはカーネギーメロン大学で開発され、後にパブリックドメインにてリリースされました。
+このマニュアルはパブリックドメインであり、完全に無償で提供されます。
+詳細は<samp><span class="file">COPYING</span></samp>と
+<samp><span class="file">CREDITS</span></samp>を参照してください。
 </p></blockquote>
 
 <ul class="menu">
@@ -563,7 +563,7 @@ moderated but does <em>not</em> require subscribing.
    </p><p>Simply send email to <a href="mailto:sbcl-bugs@lists.sourceforge.net">sbcl-bugs@lists.sourceforge.net</a> and the
 bug will be checked and added to Launchpad by SBCL maintainers.
 
-</p><h4 class="subsection">1.3.1 How to Report Bugs Effectively</h4>
+</p><h4 class="subsection">1.3.1 バグ報告を効果的に行うには</h4>
 
 <p>Please include enough information in a bug report that someone reading
 it can reproduce the problem, i.e. don't write
