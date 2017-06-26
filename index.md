@@ -413,7 +413,7 @@
 <div class="node">
 <a name="Top"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#dir">(dir)</a>
 
 </div>
@@ -460,8 +460,8 @@ provided with absolutely no warranty. See the <samp><span class="file">COPYING</
 <div class="node">
 <a name="Getting-Support-and-Reporting-Bugs"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Introduction">Introduction</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Top">Top</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Introduction">Introduction</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Top">Top</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -472,13 +472,13 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <ul class="menu">
 <li><a accesskey="1" href="#Volunteer-Support">ボランティアサポート</a>
 </li><li><a accesskey="2" href="#Commercial-Support">商用サポート</a>
-</li><li><a accesskey="3" href="#Reporting-Bugs">Reporting Bugs</a>
+</li><li><a accesskey="3" href="#Reporting-Bugs">バグ報告</a>
 </li></ul>
 
 <div class="node">
 <a name="Volunteer-Support"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Commercial-Support">商用サポート</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Commercial-Support">商用サポート</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>
 
 </div>
@@ -506,7 +506,7 @@ good question.
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://news.gmane.org/gmane.lisp.steel-bank.general">http://news.gmane.org/gmane.lisp.steel-bank.general</a>
 
    </p><p>to see if your question has been answered already. Checking the bug
-database is also worth it See <a href="#Reporting-Bugs">Reporting Bugs</a>, to see if the issue
+database is also worth it See <a href="#Reporting-Bugs">バグ報告</a>, to see if the issue
 is already known.
 
    </p><p>For general advice on asking good questions, see
@@ -516,8 +516,8 @@ is already known.
 </p><div class="node">
 <a name="Commercial-Support"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Reporting-Bugs">Reporting Bugs</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Volunteer-Support">ボランティアサポート</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Reporting-Bugs">バグ報告</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Volunteer-Support">ボランティアサポート</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>
 
 </div>
@@ -544,13 +544,13 @@ or custom SBCL development in this manual).
 </p><div class="node">
 <a name="Reporting-Bugs"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Commercial-Support">商用サポート</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Commercial-Support">商用サポート</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>
 
 </div>
 
 <!-- node-name,  next,  previous,  up -->
-<h3 class="section">1.3 Reporting Bugs</h3>
+<h3 class="section">1.3 バグ報告</h3>
 
 <p>SBCL uses Launchpad to track bugs. The bug database is available at
 
@@ -628,8 +628,8 @@ other versions of SBCL, OS, ...
 <div class="node">
 <a name="Introduction"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Starting-and-Stopping">Starting and Stopping</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Starting-and-Stopping">Starting and Stopping</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -655,7 +655,7 @@ Lisp.
 <div class="node">
 <a name="ANSI-Conformance"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Extensions">Extensions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Extensions">Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -665,13 +665,13 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 <p>Essentially every type of non-conformance is considered a bug. (The
 exceptions involve internal inconsistencies in the standard.) 
-See <a href="#Reporting-Bugs">Reporting Bugs</a>.
+See <a href="#Reporting-Bugs">バグ報告</a>.
 
 </p><div class="node">
 <a name="Extensions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Idiosyncrasies">Idiosyncrasies</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#ANSI-Conformance">ANSI Conformance</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Idiosyncrasies">Idiosyncrasies</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#ANSI-Conformance">ANSI Conformance</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -764,8 +764,8 @@ by SBCL. See <a href="#sb_002dmd5">sb-md5</a>.
 <div class="node">
 <a name="Idiosyncrasies"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Development-Tools">Development Tools</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Extensions">Extensions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Development-Tools">Development Tools</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Extensions">Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -788,7 +788,7 @@ implementation.
 <div class="node">
 <a name="Declarations"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#FASL-Format">FASL Format</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#FASL-Format">FASL Format</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Idiosyncrasies">Idiosyncrasies</a>
 
 </div>
@@ -804,8 +804,8 @@ compiler from quite satisfying this principle, are discussed in
 </p><div class="node">
 <a name="FASL-Format"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Compiler_002donly-Implementation">Compiler-only Implementation</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Declarations">Declarations</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Compiler_002donly-Implementation">Compiler-only Implementation</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Declarations">Declarations</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Idiosyncrasies">Idiosyncrasies</a>
 
 </div>
@@ -838,8 +838,8 @@ the user or system initialization file (see <a href="#Initialization-Files">Init
 <a name="Compiler-only-Implementation"></a>
 <a name="Compiler_002donly-Implementation"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Defining-Constants">Defining Constants</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#FASL-Format">FASL Format</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Defining-Constants">Defining Constants</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#FASL-Format">FASL Format</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Idiosyncrasies">Idiosyncrasies</a>
 
 </div>
@@ -861,8 +861,8 @@ same function when SBCL is built without the interpreter.
 </p><div class="node">
 <a name="Defining-Constants"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Style-Warnings">Style Warnings</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Compiler_002donly-Implementation">Compiler-only Implementation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Style-Warnings">Style Warnings</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler_002donly-Implementation">Compiler-only Implementation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Idiosyncrasies">Idiosyncrasies</a>
 
 </div>
@@ -907,7 +907,7 @@ type <code>sb-ext:defconstant-uneql</code>, and choose either the
 </p><div class="node">
 <a name="Style-Warnings"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Defining-Constants">Defining Constants</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Defining-Constants">Defining Constants</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Idiosyncrasies">Idiosyncrasies</a>
 
 </div>
@@ -944,8 +944,8 @@ case, but still isn't as of SBCL 0.7.6.)
 </p><div class="node">
 <a name="Development-Tools"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#More-SBCL-Information">More SBCL Information</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Idiosyncrasies">Idiosyncrasies</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#More-SBCL-Information">More SBCL Information</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Idiosyncrasies">Idiosyncrasies</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -962,7 +962,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 <div class="node">
 <a name="Editor-Integration"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Language-Reference">Language Reference</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Language-Reference">Language Reference</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Development-Tools">Development Tools</a>
 
 </div>
@@ -986,8 +986,8 @@ SBCL, though other options exist as well.
 </p><div class="node">
 <a name="Language-Reference"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Generating-Executables">Generating Executables</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Editor-Integration">Editor Integration</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Generating-Executables">Generating Executables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Editor-Integration">Editor Integration</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Development-Tools">Development Tools</a>
 
 </div>
@@ -1004,7 +1004,7 @@ reference.
 </p><div class="node">
 <a name="Generating-Executables"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Language-Reference">Language Reference</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Language-Reference">Language Reference</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Development-Tools">Development Tools</a>
 
 </div>
@@ -1021,8 +1021,8 @@ in the executable.  For further information, See <a href="#Function-sb_002dext_0
 </p><div class="node">
 <a name="More-SBCL-Information"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Development-Tools">Development Tools</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Development-Tools">Development Tools</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -1040,7 +1040,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 <div class="node">
 <a name="SBCL-Homepage"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Online-Documentation">Online Documentation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Online-Documentation">Online Documentation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-SBCL-Information">More SBCL Information</a>
 
 </div>
@@ -1057,8 +1057,8 @@ fairly low-volume, and help you keep abreast with SBCL development.
 </p><div class="node">
 <a name="Online-Documentation"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Additional-Documentation-Files">Additional Documentation Files</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#SBCL-Homepage">SBCL Homepage</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Additional-Documentation-Files">Additional Documentation Files</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#SBCL-Homepage">SBCL Homepage</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-SBCL-Information">More SBCL Information</a>
 
 </div>
@@ -1079,8 +1079,8 @@ case the documentation strings are only readable in the source code.
 </p><div class="node">
 <a name="Additional-Documentation-Files"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Internals-Documentation">Internals Documentation</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Online-Documentation">Online Documentation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Internals-Documentation">Internals Documentation</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Online-Documentation">Online Documentation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-SBCL-Information">More SBCL Information</a>
 
 </div>
@@ -1109,7 +1109,7 @@ information.
 <div class="node">
 <a name="Internals-Documentation"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Additional-Documentation-Files">Additional Documentation Files</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Additional-Documentation-Files">Additional Documentation Files</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-SBCL-Information">More SBCL Information</a>
 
 </div>
@@ -1132,8 +1132,8 @@ it is not installed by default.
 </p><div class="node">
 <a name="More-Common-Lisp-Information"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#History-and-Implementation-of-SBCL">History and Implementation of SBCL</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#More-SBCL-Information">More SBCL Information</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#History-and-Implementation-of-SBCL">History and Implementation of SBCL</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#More-SBCL-Information">More SBCL Information</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -1150,7 +1150,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 <div class="node">
 <a name="Internet-Community"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Third_002dparty-Libraries">Third-party Libraries</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Third_002dparty-Libraries">Third-party Libraries</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-Common-Lisp-Information">More Common Lisp Information</a>
 
 </div>
@@ -1170,8 +1170,8 @@ numerous pointers places in the net where lispers talks shop.
 <a name="Third-party-Libraries"></a>
 <a name="Third_002dparty-Libraries"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Common-Lisp-Books">Common Lisp Books</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Internet-Community">Internet Community</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Common-Lisp-Books">Common Lisp Books</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Internet-Community">Internet Community</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-Common-Lisp-Information">More Common Lisp Information</a>
 
 </div>
@@ -1185,7 +1185,7 @@ we recommend checking out <em>CLiki</em>: <a href="http://www.cliki.net/">http:/
 </p><div class="node">
 <a name="Common-Lisp-Books"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Third_002dparty-Libraries">Third-party Libraries</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Third_002dparty-Libraries">Third-party Libraries</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#More-Common-Lisp-Information">More Common Lisp Information</a>
 
 </div>
@@ -1236,7 +1236,7 @@ freely available at <a href="http://www.lisp.org/mop/">http://www.lisp.org/mop/<
 <div class="node">
 <a name="History-and-Implementation-of-SBCL"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
 
 </div>
@@ -1350,8 +1350,8 @@ itself.
 <div class="node">
 <a name="Starting-and-Stopping"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Compiler">Compiler</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Introduction">Introduction</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Compiler">Compiler</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Introduction">Introduction</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -1370,7 +1370,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <div class="node">
 <a name="Starting-SBCL"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Stopping-SBCL">Stopping SBCL</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Stopping-SBCL">Stopping SBCL</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
 
 </div>
@@ -1387,7 +1387,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and St
 <div class="node">
 <a name="Running-from-Shell"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Running-from-Emacs">Running from Emacs</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Running-from-Emacs">Running from Emacs</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-SBCL">Starting SBCL</a>
 
 </div>
@@ -1419,8 +1419,8 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-SBCL">Starting SBCL</a>
 </p><div class="node">
 <a name="Running-from-Emacs"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Shebang-Scripts">Shebang Scripts</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Running-from-Shell">Running from Shell</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Shebang-Scripts">Shebang Scripts</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Running-from-Shell">Running from Shell</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-SBCL">Starting SBCL</a>
 
 </div>
@@ -1439,7 +1439,7 @@ something like:
 </p><div class="node">
 <a name="Shebang-Scripts"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Running-from-Emacs">Running from Emacs</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Running-from-Emacs">Running from Emacs</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-SBCL">Starting SBCL</a>
 
 </div>
@@ -1468,8 +1468,8 @@ this via the <code>--script</code> command line option.
    <div class="node">
 <a name="Stopping-SBCL"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Command-Line-Options">Command Line Options</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Starting-SBCL">Starting SBCL</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Command-Line-Options">Command Line Options</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Starting-SBCL">Starting SBCL</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
 
 </div>
@@ -1487,7 +1487,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and St
 <div class="node">
 <a name="Exit"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#End-of-File">End of File</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#End-of-File">End of File</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stopping-SBCL">Stopping SBCL</a>
 
 </div>
@@ -1543,8 +1543,8 @@ process to continue normally.
 <div class="node">
 <a name="End-of-File"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Saving-a-Core-Image">Saving a Core Image</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Exit">Exit</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Saving-a-Core-Image">Saving a Core Image</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Exit">Exit</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stopping-SBCL">Stopping SBCL</a>
 
 </div>
@@ -1559,8 +1559,8 @@ using SBCL as part of a shell pipeline.
 </p><div class="node">
 <a name="Saving-a-Core-Image"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Exit-on-Errors">Exit on Errors</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#End-of-File">End of File</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Exit-on-Errors">Exit on Errors</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#End-of-File">End of File</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stopping-SBCL">Stopping SBCL</a>
 
 </div>
@@ -1719,7 +1719,7 @@ available from Lisp.
 <div class="node">
 <a name="Exit-on-Errors"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Saving-a-Core-Image">Saving a Core Image</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Saving-a-Core-Image">Saving a Core Image</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stopping-SBCL">Stopping SBCL</a>
 
 </div>
@@ -1735,8 +1735,8 @@ the flexibility and robustness of Common Lisp. See <a href="#Debugger-Entry">Deb
 </p><div class="node">
 <a name="Command-Line-Options"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Initialization-Files">Initialization Files</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Stopping-SBCL">Stopping SBCL</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Initialization-Files">Initialization Files</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Stopping-SBCL">Stopping SBCL</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
 
 </div>
@@ -1782,7 +1782,7 @@ runtime system or the Lisp system.
 <div class="node">
 <a name="Runtime-Options"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Toplevel-Options">Toplevel Options</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Toplevel-Options">Toplevel Options</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Command-Line-Options">Command Line Options</a>
 
 </div>
@@ -1853,7 +1853,7 @@ chance to see it.
 </p><div class="node">
 <a name="Toplevel-Options"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Runtime-Options">Runtime Options</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Runtime-Options">Runtime Options</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Command-Line-Options">Command Line Options</a>
 
 </div>
@@ -1919,8 +1919,8 @@ piping output from SBCL to <code>head -n1</code> or similar.
 <div class="node">
 <a name="Initialization-Files"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Initialization-and-Exit-Hooks">Initialization and Exit Hooks</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Command-Line-Options">Command Line Options</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Initialization-and-Exit-Hooks">Initialization and Exit Hooks</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Command-Line-Options">Command Line Options</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
 
 </div>
@@ -1961,7 +1961,7 @@ of FASLs (see <a href="#FASL-Format">FASL Format</a>), etc.
 </p><div class="node">
 <a name="Initialization-and-Exit-Hooks"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Initialization-Files">Initialization Files</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Initialization-Files">Initialization Files</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
 
 </div>
@@ -1998,8 +1998,8 @@ these hooks.
 <div class="node">
 <a name="Compiler"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Debugger">Debugger</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Starting-and-Stopping">Starting and Stopping</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Debugger">Debugger</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Starting-and-Stopping">Starting and Stopping</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -2027,7 +2027,7 @@ separate that they have their own chapter, <a href="#Efficiency">Efficiency</a>.
 <div class="node">
 <a name="Diagnostic-Messages"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Handling-of-Types">Handling of Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Handling-of-Types">Handling of Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -2046,7 +2046,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 <div class="node">
 <a name="Controlling-Verbosity"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Diagnostic-Severity">Diagnostic Severity</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Diagnostic-Severity">Diagnostic Severity</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Diagnostic-Messages">Diagnostic Messages</a>
 
 </div>
@@ -2160,8 +2160,8 @@ compiler, see <a href="#Customization-Hooks-for-Users">Customization Hooks for U
 </p><div class="node">
 <a name="Diagnostic-Severity"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Understanding-Compiler-Diagnostics">Understanding Compiler Diagnostics</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Controlling-Verbosity">Controlling Verbosity</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Understanding-Compiler-Diagnostics">Understanding Compiler Diagnostics</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Controlling-Verbosity">Controlling Verbosity</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Diagnostic-Messages">Diagnostic Messages</a>
 
 </div>
@@ -2220,7 +2220,7 @@ has written, having proved that it is unreachable.
 <div class="node">
 <a name="Understanding-Compiler-Diagnostics"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Diagnostic-Severity">Diagnostic Severity</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Diagnostic-Severity">Diagnostic Severity</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Diagnostic-Messages">Diagnostic Messages</a>
 
 </div>
@@ -2252,7 +2252,7 @@ illustrated using this example program:
 <div class="node">
 <a name="The-Parts-of-a-Compiler-Diagnostic"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#The-Original-and-Actual-Source">The Original and Actual Source</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#The-Original-and-Actual-Source">The Original and Actual Source</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Understanding-Compiler-Diagnostics">Understanding Compiler Diagnostics</a>
 
 </div>
@@ -2385,8 +2385,8 @@ processing path will also be omitted.
 </p><div class="node">
 <a name="The-Original-and-Actual-Source"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#The-Processing-Path">The Processing Path</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#The-Parts-of-a-Compiler-Diagnostic">The Parts of a Compiler Diagnostic</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#The-Processing-Path">The Processing Path</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#The-Parts-of-a-Compiler-Diagnostic">The Parts of a Compiler Diagnostic</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Understanding-Compiler-Diagnostics">Understanding Compiler Diagnostics</a>
 
 </div>
@@ -2438,7 +2438,7 @@ responsible form. For example, compiling this function
 </p><div class="node">
 <a name="The-Processing-Path"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#The-Original-and-Actual-Source">The Original and Actual Source</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#The-Original-and-Actual-Source">The Original and Actual Source</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Understanding-Compiler-Diagnostics">Understanding Compiler Diagnostics</a>
 
 </div>
@@ -2493,8 +2493,8 @@ one level.
 </p><div class="node">
 <a name="Handling-of-Types"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Policy">Compiler Policy</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Diagnostic-Messages">Diagnostic Messages</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Policy">Compiler Policy</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Diagnostic-Messages">Diagnostic Messages</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -2532,7 +2532,7 @@ involving the <code>satisfies</code> type specifier.
 <div class="node">
 <a name="Declarations-as-Assertions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Precise-Type-Checking">Precise Type Checking</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Precise-Type-Checking">Precise Type Checking</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Handling-of-Types">Handling of Types</a>
 
 </div>
@@ -2595,8 +2595,8 @@ performed are liable to corrupt the heap.
 <div class="node">
 <a name="Precise-Type-Checking"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Getting-Existing-Programs-to-Run">Getting Existing Programs to Run</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Declarations-as-Assertions">Declarations as Assertions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Getting-Existing-Programs-to-Run">Getting Existing Programs to Run</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Declarations-as-Assertions">Declarations as Assertions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Handling-of-Types">Handling of Types</a>
 
 </div>
@@ -2623,8 +2623,8 @@ precisely as possible. This often involves the use of <code>or</code>,
 </p><div class="node">
 <a name="Getting-Existing-Programs-to-Run"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Implementation-Limitations">Implementation Limitations</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Precise-Type-Checking">Precise Type Checking</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Implementation-Limitations">Implementation Limitations</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Precise-Type-Checking">Precise Type Checking</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Handling-of-Types">Handling of Types</a>
 
 </div>
@@ -2756,7 +2756,7 @@ variable in the loop body.
 </p><div class="node">
 <a name="Implementation-Limitations"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Getting-Existing-Programs-to-Run">Getting Existing Programs to Run</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Getting-Existing-Programs-to-Run">Getting Existing Programs to Run</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Handling-of-Types">Handling of Types</a>
 
 </div>
@@ -2804,8 +2804,8 @@ they may, alas, remain in the system for a while.
 </p><div class="node">
 <a name="Compiler-Policy"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Errors">Compiler Errors</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Handling-of-Types">Handling of Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Errors">Compiler Errors</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Handling-of-Types">Handling of Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -3071,8 +3071,8 @@ intended to be eg. wrapped around the compilation of all files in the same syste
 <div class="node">
 <a name="Compiler-Errors"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Policy">Compiler Policy</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Policy">Compiler Policy</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -3089,7 +3089,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 <div class="node">
 <a name="Type-Errors-at-Compile-Time"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Errors-During-Macroexpansion">Errors During Macroexpansion</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Errors-During-Macroexpansion">Errors During Macroexpansion</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler-Errors">Compiler Errors</a>
 
 </div>
@@ -3145,8 +3145,8 @@ an error if it is executed) and gives a warning.
 </p><div class="node">
 <a name="Errors-During-Macroexpansion"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Read-Errors">Read Errors</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Type-Errors-at-Compile-Time">Type Errors at Compile Time</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Read-Errors">Read Errors</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Type-Errors-at-Compile-Time">Type Errors at Compile Time</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler-Errors">Compiler Errors</a>
 
 </div>
@@ -3180,7 +3180,7 @@ example, this definition:
    <div class="node">
 <a name="Read-Errors"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Errors-During-Macroexpansion">Errors During Macroexpansion</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Errors-During-Macroexpansion">Errors During Macroexpansion</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler-Errors">Compiler Errors</a>
 
 </div>
@@ -3196,8 +3196,8 @@ character position and gives up on the entire source file.
 </p><div class="node">
 <a name="Open-Coding-and-Inline-Expansion"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Interpreter">Interpreter</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Errors">Compiler Errors</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Interpreter">Interpreter</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Errors">Compiler Errors</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -3265,7 +3265,7 @@ a more efficient calling convention that forbids redefinition.
 </p><div class="node">
 <a name="Interpreter"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
 
 </div>
@@ -3294,8 +3294,8 @@ to <code>:interpret</code>, an interpreter will be used.
 <div class="node">
 <a name="Debugger"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Efficiency">Efficiency</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Compiler">Compiler</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Efficiency">Efficiency</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler">Compiler</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -3325,7 +3325,7 @@ the debugger, single-stepper and <code>trace</code>, and the effect of
 <div class="node">
 <a name="Debugger-Entry"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Command-Loop">Debugger Command Loop</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Command-Loop">Debugger Command Loop</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -3341,7 +3341,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 <div class="node">
 <a name="Debugger-Banner"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Invocation">Debugger Invocation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Invocation">Debugger Invocation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger-Entry">Debugger Entry</a>
 
 </div>
@@ -3380,7 +3380,7 @@ followed by the debugger prompt.
 </p><div class="node">
 <a name="Debugger-Invocation"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Banner">Debugger Banner</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Banner">Debugger Banner</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger-Entry">Debugger Entry</a>
 
 </div>
@@ -3431,8 +3431,8 @@ entry into the debugger.
 <div class="node">
 <a name="Debugger-Command-Loop"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Stack-Frames">Stack Frames</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Entry">Debugger Entry</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Stack-Frames">Stack Frames</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Entry">Debugger Entry</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -3483,8 +3483,8 @@ provide bindings for printer control variables.
 <div class="node">
 <a name="Stack-Frames"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Variable-Access">Variable Access</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Command-Loop">Debugger Command Loop</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Variable-Access">Variable Access</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Command-Loop">Debugger Command Loop</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -3521,7 +3521,7 @@ stopped to call another function, or because of an interrupt or error.
 <div class="node">
 <a name="Stack-Motion"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#How-Arguments-are-Printed">How Arguments are Printed</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#How-Arguments-are-Printed">How Arguments are Printed</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stack-Frames">Stack Frames</a>
 
 </div>
@@ -3565,8 +3565,8 @@ was entered.
 <div class="node">
 <a name="How-Arguments-are-Printed"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Function-Names">Function Names</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Stack-Motion">Stack Motion</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Function-Names">Function Names</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Stack-Motion">Stack Motion</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stack-Frames">Stack Frames</a>
 
 </div>
@@ -3641,8 +3641,8 @@ are present in the debugger, see <a href="#Debugger-Policy-Control">Debugger Pol
 </p><div class="node">
 <a name="Function-Names"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Debug-Tail-Recursion">Debug Tail Recursion</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#How-Arguments-are-Printed">How Arguments are Printed</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Debug-Tail-Recursion">Debug Tail Recursion</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#How-Arguments-are-Printed">How Arguments are Printed</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stack-Frames">Stack Frames</a>
 
 </div>
@@ -3697,8 +3697,8 @@ frames during the execution of <code>unwind-protect</code> cleanup code, and
 </p><div class="node">
 <a name="Debug-Tail-Recursion"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Unknown-Locations-and-Interrupts">Unknown Locations and Interrupts</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Function-Names">Function Names</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Unknown-Locations-and-Interrupts">Unknown Locations and Interrupts</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Function-Names">Function Names</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stack-Frames">Stack Frames</a>
 
 </div>
@@ -3748,7 +3748,7 @@ See <a href="#Debugger-Policy-Control">Debugger Policy Control</a>.
 </p><div class="node">
 <a name="Unknown-Locations-and-Interrupts"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debug-Tail-Recursion">Debug Tail Recursion</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debug-Tail-Recursion">Debug Tail Recursion</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Stack-Frames">Stack Frames</a>
 
 </div>
@@ -3795,8 +3795,8 @@ located.  If this happens, return from the interrupt and try again.
 </p><div class="node">
 <a name="Variable-Access"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Source-Location-Printing">Source Location Printing</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Stack-Frames">Stack Frames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Source-Location-Printing">Source Location Printing</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Stack-Frames">Stack Frames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -3863,7 +3863,7 @@ that must unambiguously complete to the name of a valid variable.
 <div class="node">
 <a name="Variable-Value-Availability"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Note-On-Lexical-Variable-Access">Note On Lexical Variable Access</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Note-On-Lexical-Variable-Access">Note On Lexical Variable Access</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Variable-Access">Variable Access</a>
 
 </div>
@@ -3937,7 +3937,7 @@ known locations.
 </p><div class="node">
 <a name="Note-On-Lexical-Variable-Access"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Value-Availability">Variable Value Availability</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Value-Availability">Variable Value Availability</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Variable-Access">Variable Access</a>
 
 </div>
@@ -3961,8 +3961,8 @@ things happening.
 </p><div class="node">
 <a name="Source-Location-Printing"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Policy-Control">Debugger Policy Control</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Access">Variable Access</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Debugger-Policy-Control">Debugger Policy Control</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Access">Variable Access</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4040,7 +4040,7 @@ print:
 <div class="node">
 <a name="How-the-Source-is-Found"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Source-Location-Availability">Source Location Availability</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Source-Location-Availability">Source Location Availability</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Source-Location-Printing">Source Location Printing</a>
 
 </div>
@@ -4098,7 +4098,7 @@ into something different, or if a read-macro ever returns the same
 </p><div class="node">
 <a name="Source-Location-Availability"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#How-the-Source-is-Found">How the Source is Found</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#How-the-Source-is-Found">How the Source is Found</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Source-Location-Printing">Source Location Printing</a>
 
 </div>
@@ -4151,8 +4151,8 @@ program on you.)
 </p><div class="node">
 <a name="Debugger-Policy-Control"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Exiting-Commands">Exiting Commands</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Source-Location-Printing">Source Location Printing</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Exiting-Commands">Exiting Commands</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Source-Location-Printing">Source Location Printing</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4237,8 +4237,8 @@ the original function.
 </p><div class="node">
 <a name="Exiting-Commands"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Information-Commands">Information Commands</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Policy-Control">Debugger Policy Control</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Information-Commands">Information Commands</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger-Policy-Control">Debugger Policy Control</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4293,8 +4293,8 @@ is restarted, the new function will be used.
 <div class="node">
 <a name="Information-Commands"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Function-Tracing">Function Tracing</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Exiting-Commands">Exiting Commands</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Function-Tracing">Function Tracing</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Exiting-Commands">Exiting Commands</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4442,8 +4442,8 @@ proceed cases.
 <div class="node">
 <a name="Function-Tracing"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Single-Stepping">Single Stepping</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Information-Commands">Information Commands</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Single-Stepping">Single Stepping</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Information-Commands">Information Commands</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4569,8 +4569,8 @@ functions when called with no arguments.
 <div class="node">
 <a name="Single-Stepping"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Enabling-and-Disabling-the-Debugger">Enabling and Disabling the Debugger</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Function-Tracing">Function Tracing</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Enabling-and-Disabling-the-Debugger">Enabling and Disabling the Debugger</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Function-Tracing">Function Tracing</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4630,7 +4630,7 @@ to be at least partially steppable.
 <div class="node">
 <a name="Enabling-and-Disabling-the-Debugger"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Single-Stepping">Single Stepping</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Single-Stepping">Single Stepping</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Debugger">Debugger</a>
 
 </div>
@@ -4661,8 +4661,8 @@ and <code>ldb</code> (the low-level debugger).  See also <code>enable-debugger</
 <div class="node">
 <a name="Efficiency"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Debugger">Debugger</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger">Debugger</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -4683,7 +4683,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <div class="node">
 <a name="Slot-access"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Dynamic_002dextent-allocation">Dynamic-extent allocation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Dynamic_002dextent-allocation">Dynamic-extent allocation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Efficiency">Efficiency</a>
 
 </div>
@@ -4746,8 +4746,8 @@ lazily set up during those calls.
 <a name="Dynamic-extent-allocation"></a>
 <a name="Dynamic_002dextent-allocation"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Modular-arithmetic">Modular arithmetic</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Slot-access">Slot access</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Modular-arithmetic">Modular arithmetic</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Slot-access">Slot access</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Efficiency">Efficiency</a>
 
 </div>
@@ -4890,8 +4890,8 @@ closure, even when the closure is not declared <code>dynamic-extent</code>.
 <div class="node">
 <a name="Modular-arithmetic"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Global-and-Always_002dBound-variables">Global and Always-Bound variables</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Dynamic_002dextent-allocation">Dynamic-extent allocation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Global-and-Always_002dBound-variables">Global and Always-Bound variables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Dynamic_002dextent-allocation">Dynamic-extent allocation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Efficiency">Efficiency</a>
 
 </div>
@@ -4935,8 +4935,8 @@ currently this is not implemented.
 <a name="Global-and-Always-Bound-variables"></a>
 <a name="Global-and-Always_002dBound-variables"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Miscellaneous-Efficiency-Issues">Miscellaneous Efficiency Issues</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Modular-arithmetic">Modular arithmetic</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Miscellaneous-Efficiency-Issues">Miscellaneous Efficiency Issues</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Modular-arithmetic">Modular arithmetic</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Efficiency">Efficiency</a>
 
 </div>
@@ -4989,7 +4989,7 @@ boundness checks from value lookups.
 <div class="node">
 <a name="Miscellaneous-Efficiency-Issues"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Global-and-Always_002dBound-variables">Global and Always-Bound variables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Global-and-Always_002dBound-variables">Global and Always-Bound variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Efficiency">Efficiency</a>
 
 </div>
@@ -5098,8 +5098,8 @@ examples (some straightforward, some less so).
 </p><div class="node">
 <a name="Beyond-the-ANSI-Standard"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Function-Interface">Foreign Function Interface</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Efficiency">Efficiency</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Function-Interface">Foreign Function Interface</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Efficiency">Efficiency</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -5133,7 +5133,7 @@ it still has quite a few.  See <a href="#Contributed-Modules">Contributed Module
 <div class="node">
 <a name="Reader-Extensions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -5176,8 +5176,8 @@ normalized are escaped during printing.
 <a name="Package-Local-Nicknames"></a>
 <a name="Package_002dLocal-Nicknames"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package-Variance">Package Variance</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Reader-Extensions">Reader Extensions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package-Variance">Package Variance</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Reader-Extensions">Reader Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -5308,8 +5308,8 @@ removed, and <code>nil</code> otherwise.
 <div class="node">
 <a name="Package-Variance"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Garbage-Collection">Garbage Collection</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Garbage-Collection">Garbage Collection</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -5353,8 +5353,8 @@ with restarts provided for user to specify what action should be taken.
 <div class="node">
 <a name="Garbage-Collection"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Metaobject-Protocol">Metaobject Protocol</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Variance">Package Variance</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Metaobject-Protocol">Metaobject Protocol</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Variance">Package Variance</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -5606,8 +5606,8 @@ promotion. Available on <code>gencgc</code> platforms only.
 <div class="node">
 <a name="Metaobject-Protocol"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Extensible-Sequences">Extensible Sequences</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Garbage-Collection">Garbage Collection</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Extensible-Sequences">Extensible Sequences</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Garbage-Collection">Garbage Collection</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -5790,8 +5790,8 @@ to the constant <code>+slot-unbound+</code>.
 <div class="node">
 <a name="Extensible-Sequences"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Support-For-Unix">Support For Unix</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Metaobject-Protocol">Metaobject Protocol</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Support-For-Unix">Support For Unix</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Metaobject-Protocol">Metaobject Protocol</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -6033,7 +6033,7 @@ the macro
 <div class="node">
 <a name="Iterator-Protocol"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Simple-Iterator-Protocol">Simple Iterator Protocol</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Simple-Iterator-Protocol">Simple Iterator Protocol</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Extensible-Sequences">Extensible Sequences</a>
 
 </div>
@@ -6142,7 +6142,7 @@ iterators:
 <div class="node">
 <a name="Simple-Iterator-Protocol"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Iterator-Protocol">Iterator Protocol</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Iterator-Protocol">Iterator Protocol</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Extensible-Sequences">Extensible Sequences</a>
 
 </div>
@@ -6225,8 +6225,8 @@ created by calling the following generic function:
 <div class="node">
 <a name="Support-For-Unix"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Unicode-Support">Unicode Support</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Extensible-Sequences">Extensible Sequences</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Unicode-Support">Unicode Support</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Extensible-Sequences">Extensible Sequences</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -6244,7 +6244,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the A
 <a name="Command-line-arguments"></a>
 <a name="Command_002dline-arguments"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Querying-the-process-environment">Querying the process environment</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Querying-the-process-environment">Querying the process environment</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Support-For-Unix">Support For Unix</a>
 
 </div>
@@ -6258,8 +6258,8 @@ The UNIX command line can be read from the variable
 </p><div class="node">
 <a name="Querying-the-process-environment"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Running-external-programs">Running external programs</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Command_002dline-arguments">Command-line arguments</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Running-external-programs">Running external programs</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Command_002dline-arguments">Command-line arguments</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Support-For-Unix">Support For Unix</a>
 
 </div>
@@ -6280,7 +6280,7 @@ corresponds to <code>name</code>, or <code>nil</code> if there is none.
 <div class="node">
 <a name="Running-external-programs"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Querying-the-process-environment">Querying the process environment</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Querying-the-process-environment">Querying the process environment</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Support-For-Unix">Support For Unix</a>
 
 </div>
@@ -6475,8 +6475,8 @@ status slot.
 <div class="node">
 <a name="Unicode-Support"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Support-For-Unix">Support For Unix</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Support-For-Unix">Support For Unix</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -6944,8 +6944,8 @@ it defaults to 80 characters
 <div class="node">
 <a name="Customization-Hooks-for-Users"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Unicode-Support">Unicode Support</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Unicode-Support">Unicode Support</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7021,8 +7021,8 @@ handled by any other handler, it will be muffled.
 <div class="node">
 <a name="Tools-To-Help-Developers"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7043,8 +7043,8 @@ the <code>inspect</code> prompt.
 </p><div class="node">
 <a name="Resolution-of-Name-Conflicts"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7063,8 +7063,8 @@ accessor <code>sb-ext:name-conflict-symbols</code>.
 </p><div class="node">
 <a name="Hash-Table-Extensions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Random-Number-Generation">Random Number Generation</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Random-Number-Generation">Random Number Generation</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7227,8 +7227,8 @@ unspecified.
 <div class="node">
 <a name="Random-Number-Generation"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7339,8 +7339,8 @@ different type of generator.
 </p><div class="node">
 <a name="Miscellaneous-Extensions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Stale-Extensions">Stale Extensions</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Random-Number-Generation">Random Number Generation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Stale-Extensions">Stale Extensions</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Random-Number-Generation">Random Number Generation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7431,8 +7431,8 @@ version 1[.0.0...] or greater.
 <div class="node">
 <a name="Stale-Extensions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Efficiency-Hacks">Efficiency Hacks</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Efficiency-Hacks">Efficiency Hacks</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7460,7 +7460,7 @@ list.
 </p><div class="node">
 <a name="Efficiency-Hacks"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Stale-Extensions">Stale Extensions</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Stale-Extensions">Stale Extensions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
 
 </div>
@@ -7521,8 +7521,8 @@ type will never change, which can make type testing
 </p><div class="node">
 <a name="Foreign-Function-Interface"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Pathnames">Pathnames</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Pathnames">Pathnames</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -7560,7 +7560,7 @@ notably in the name of the <code>SB-ALIEN</code> package.
 <div class="node">
 <a name="Introduction-to-the-Foreign-Function-Interface"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Types">Foreign Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Types">Foreign Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -7613,8 +7613,8 @@ intentionally similar to those of the C language.
 </p><div class="node">
 <a name="Foreign-Types"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Introduction-to-the-Foreign-Function-Interface">Introduction to the Foreign Function Interface</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Introduction-to-the-Foreign-Function-Interface">Introduction to the Foreign Function Interface</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -7646,7 +7646,7 @@ structure. For example the C type
 <div class="node">
 <a name="Defining-Foreign-Types"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Types-and-Lisp-Types">Foreign Types and Lisp Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Types-and-Lisp-Types">Foreign Types and Lisp Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Types">Foreign Types</a>
 
 </div>
@@ -7669,8 +7669,8 @@ inherently named, but can be given named abbreviations using the
 </p><div class="node">
 <a name="Foreign-Types-and-Lisp-Types"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Type-Specifiers">Foreign Type Specifiers</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Defining-Foreign-Types">Defining Foreign Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Type-Specifiers">Foreign Type Specifiers</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Defining-Foreign-Types">Defining Foreign Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Types">Foreign Types</a>
 
 </div>
@@ -7701,7 +7701,7 @@ is not automatically converted to a Lisp value, then it will return an
 </p><div class="node">
 <a name="Foreign-Type-Specifiers"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Types-and-Lisp-Types">Foreign Types and Lisp Types</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Types-and-Lisp-Types">Foreign Types and Lisp Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Types">Foreign Types</a>
 
 </div>
@@ -7890,8 +7890,8 @@ specifiers as foreign type specifiers:
 <div class="node">
 <a name="Operations-On-Foreign-Values"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Variables">Foreign Variables</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Types">Foreign Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Variables">Foreign Variables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Types">Foreign Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -7913,7 +7913,7 @@ to dynamically allocate and free foreign variables.
 <div class="node">
 <a name="Accessing-Foreign-Values"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Coercing-Foreign-Values">Coercing Foreign Values</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Coercing-Foreign-Values">Coercing Foreign Values</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>
 
 </div>
@@ -7986,8 +7986,8 @@ use <code>apropos</code> and <code>describe</code> for more details
    <div class="node">
 <a name="Coercing-Foreign-Values"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Dynamic-Allocation">Foreign Dynamic Allocation</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Accessing-Foreign-Values">Accessing Foreign Values</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Dynamic-Allocation">Foreign Dynamic Allocation</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Accessing-Foreign-Values">Accessing Foreign Values</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>
 
 </div>
@@ -8037,7 +8037,7 @@ record type.
 <div class="node">
 <a name="Foreign-Dynamic-Allocation"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Coercing-Foreign-Values">Coercing Foreign Values</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Coercing-Foreign-Values">Coercing Foreign Values</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>
 
 </div>
@@ -8117,8 +8117,8 @@ allocated by <code>make-alien</code>, <code>make-alien-string</code> or malloc(3
 <div class="node">
 <a name="Foreign-Variables"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Data-Structure-Examples">Foreign Data Structure Examples</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Data-Structure-Examples">Foreign Data Structure Examples</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Operations-On-Foreign-Values">Operations On Foreign Values</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -8138,7 +8138,7 @@ are supported.
 <div class="node">
 <a name="Local-Foreign-Variables"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#External-Foreign-Variables">External Foreign Variables</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#External-Foreign-Variables">External Foreign Variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Variables">Foreign Variables</a>
 
 </div>
@@ -8176,7 +8176,7 @@ using <code>(struct </code><var>foo</var><code>)</code>.
 <div class="node">
 <a name="External-Foreign-Variables"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Local-Foreign-Variables">Local Foreign Variables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Local-Foreign-Variables">Local Foreign Variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Variables">Foreign Variables</a>
 
 </div>
@@ -8253,8 +8253,8 @@ an unevaluated alien type specifier.
 <div class="node">
 <a name="Foreign-Data-Structure-Examples"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Loading-Shared-Object-Files">Loading Shared Object Files</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Variables">Foreign Variables</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Loading-Shared-Object-Files">Loading Shared Object Files</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Variables">Foreign Variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -8323,8 +8323,8 @@ expression
    <div class="node">
 <a name="Loading-Shared-Object-Files"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Function-Calls">Foreign Function Calls</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Data-Structure-Examples">Foreign Data Structure Examples</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-Function-Calls">Foreign Function Calls</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Data-Structure-Examples">Foreign Data Structure Examples</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -8381,8 +8381,8 @@ will be signalled when the core is saved <code>--</code> this is orthogonal from
 <div class="node">
 <a name="Foreign-Function-Calls"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Step_002dBy_002dStep-Example-of-the-Foreign-Function-Interface">Step-By-Step Example of the Foreign Function Interface</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Loading-Shared-Object-Files">Loading Shared Object Files</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Step_002dBy_002dStep-Example-of-the-Foreign-Function-Interface">Step-By-Step Example of the Foreign Function Interface</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Loading-Shared-Object-Files">Loading Shared Object Files</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -8417,7 +8417,7 @@ the only documentation.  Users of a Lisp built with the
 <a name="The-alien-funcall-Primitive"></a>
 <a name="The-alien_002dfuncall-Primitive"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#The-define_002dalien_002droutine-Macro">The define-alien-routine Macro</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#The-define_002dalien_002droutine-Macro">The define-alien-routine Macro</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Calls">Foreign Function Calls</a>
 
 </div>
@@ -8474,8 +8474,8 @@ the <code>(* (struct foo))</code> objects filled in by the foreign call:
 <a name="The-define-alien-routine-Macro"></a>
 <a name="The-define_002dalien_002droutine-Macro"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#define_002dalien_002droutine-Example">define-alien-routine Example</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#The-alien_002dfuncall-Primitive">The alien-funcall Primitive</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#define_002dalien_002droutine-Example">define-alien-routine Example</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#The-alien_002dfuncall-Primitive">The alien-funcall Primitive</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Calls">Foreign Function Calls</a>
 
 </div>
@@ -8553,8 +8553,8 @@ representations, avoiding consing.)
 <a name="define-alien-routine-Example"></a>
 <a name="define_002dalien_002droutine-Example"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Calling-Lisp-From-C">Calling Lisp From C</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#The-define_002dalien_002droutine-Macro">The define-alien-routine Macro</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Calling-Lisp-From-C">Calling Lisp From C</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#The-define_002dalien_002droutine-Macro">The define-alien-routine Macro</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Calls">Foreign Function Calls</a>
 
 </div>
@@ -8588,7 +8588,7 @@ convention:
 </p><div class="node">
 <a name="Calling-Lisp-From-C"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#define_002dalien_002droutine-Example">define-alien-routine Example</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#define_002dalien_002droutine-Example">define-alien-routine Example</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Calls">Foreign Function Calls</a>
 
 </div>
@@ -8765,7 +8765,7 @@ could be said to have a whole-world granularity).
 <a name="Step-By-Step-Example-of-the-Foreign-Function-Interface"></a>
 <a name="Step_002dBy_002dStep-Example-of-the-Foreign-Function-Interface"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Function-Calls">Foreign Function Calls</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Function-Calls">Foreign Function Calls</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 
 </div>
@@ -8907,8 +8907,8 @@ Lisp read-eval-print loop should print the following return values:
    <div class="node">
 <a name="Pathnames"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Streams">Streams</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Function-Interface">Foreign Function Interface</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Streams">Streams</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-Function-Interface">Foreign Function Interface</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -8926,7 +8926,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <div class="node">
 <a name="Lisp-Pathnames"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Native-Filenames">Native Filenames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Native-Filenames">Native Filenames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Pathnames">Pathnames</a>
 
 </div>
@@ -9019,7 +9019,7 @@ existing translations for "SYS:SRC;", "SYS:CONTRIB;", and
 <div class="node">
 <a name="Native-Filenames"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-Pathnames">Lisp Pathnames</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-Pathnames">Lisp Pathnames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Pathnames">Pathnames</a>
 
 </div>
@@ -9120,8 +9120,8 @@ to force a pathname to unparse as a file.  For example,
    <div class="node">
 <a name="Streams"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package-Locks">Package Locks</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Pathnames">Pathnames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package-Locks">Package Locks</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Pathnames">Pathnames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -9164,7 +9164,7 @@ of the Franz Allegro simple-streams proposal.
 <div class="node">
 <a name="External-Formats"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Bivalent-Streams">Bivalent Streams</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Bivalent-Streams">Bivalent Streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Streams">Streams</a>
 
 </div>
@@ -9313,8 +9313,8 @@ sequences with question marks.
 </p><div class="node">
 <a name="Bivalent-Streams"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Gray-Streams">Gray Streams</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#External-Formats">External Formats</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Gray-Streams">Gray Streams</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#External-Formats">External Formats</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Streams">Streams</a>
 
 </div>
@@ -9339,8 +9339,8 @@ fast path through <code>read-char</code>.
 <div class="node">
 <a name="Gray-Streams"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Simple-Streams">Simple Streams</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Bivalent-Streams">Bivalent Streams</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Simple-Streams">Simple Streams</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Bivalent-Streams">Bivalent Streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Streams">Streams</a>
 
 </div>
@@ -9369,7 +9369,7 @@ suitably.
 <div class="node">
 <a name="Gray-Streams-classes"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Methods-common-to-all-streams">Methods common to all streams</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Methods-common-to-all-streams">Methods common to all streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9485,8 +9485,8 @@ is a subtype of character.
 <div class="node">
 <a name="Methods-common-to-all-streams"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Input-stream-methods">Input stream methods</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Gray-Streams-classes">Gray Streams classes</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Input-stream-methods">Input stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Gray-Streams-classes">Gray Streams classes</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9524,8 +9524,8 @@ of fundamental-stream.
 <div class="node">
 <a name="Input-stream-methods"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Character-input-stream-methods">Character input stream methods</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Methods-common-to-all-streams">Methods common to all streams</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Character-input-stream-methods">Character input stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Methods-common-to-all-streams">Methods common to all streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9553,8 +9553,8 @@ of fundamental-input-stream.
 <div class="node">
 <a name="Character-input-stream-methods"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Output-stream-methods">Output stream methods</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Input-stream-methods">Input stream methods</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Output-stream-methods">Output stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Input-stream-methods">Input stream methods</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9627,8 +9627,8 @@ fundamental-input-stream:
 <div class="node">
 <a name="Output-stream-methods"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Character-output-stream-methods">Character output stream methods</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Character-input-stream-methods">Character input stream methods</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Character-output-stream-methods">Character output stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Character-input-stream-methods">Character input stream methods</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9673,8 +9673,8 @@ fundamental-output-stream:
 <div class="node">
 <a name="Character-output-stream-methods"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Binary-stream-methods">Binary stream methods</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Output-stream-methods">Output stream methods</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Binary-stream-methods">Binary stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Output-stream-methods">Output stream methods</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9775,8 +9775,8 @@ fundamental-character-output-stream:
 <div class="node">
 <a name="Binary-stream-methods"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Gray-Streams-examples">Gray Streams examples</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Character-output-stream-methods">Character output stream methods</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Gray-Streams-examples">Gray Streams examples</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Character-output-stream-methods">Character output stream methods</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9805,7 +9805,7 @@ fundamental-binary-stream:
 <div class="node">
 <a name="Gray-Streams-examples"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Binary-stream-methods">Binary stream methods</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Binary-stream-methods">Binary stream methods</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams">Gray Streams</a>
 
 </div>
@@ -9828,7 +9828,7 @@ batches, such as <code>stream-read-line<!-- /@w --></code>, <code>stream-write-s
 <div class="node">
 <a name="Character-counting-input-stream"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Output-prefixing-character-stream">Output prefixing character stream</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Output-prefixing-character-stream">Output prefixing character stream</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams-examples">Gray Streams examples</a>
 
 </div>
@@ -9933,7 +9933,7 @@ will probably be slower than methods that forwarded directly).
    <div class="node">
 <a name="Output-prefixing-character-stream"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Character-counting-input-stream">Character counting input stream</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Character-counting-input-stream">Character counting input stream</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Gray-Streams-examples">Gray Streams examples</a>
 
 </div>
@@ -10010,7 +10010,7 @@ at least <code>stream-write-line<!-- /@w --></code>, <code>stream-write-sequence
    <div class="node">
 <a name="Simple-Streams"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Gray-Streams">Gray Streams</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Gray-Streams">Gray Streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Streams">Streams</a>
 
 </div>
@@ -10044,8 +10044,8 @@ adjusted; see default-open-class in the file cl.lisp
 <div class="node">
 <a name="Package-Locks"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Threading">Threading</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Streams">Streams</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Threading">Threading</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Streams">Streams</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -10073,7 +10073,7 @@ the list of operations violating package locks.
 <div class="node">
 <a name="Package-Lock-Concepts"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package-Lock-Dictionary">Package Lock Dictionary</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package-Lock-Dictionary">Package Lock Dictionary</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Locks">Package Locks</a>
 
 </div>
@@ -10091,7 +10091,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Locks">Package Locks</a>
 <div class="node">
 <a name="Package-Lock-Overview"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Implementation-Packages">Implementation Packages</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Implementation-Packages">Implementation Packages</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Lock-Concepts">Package Lock Concepts</a>
 
 </div>
@@ -10117,8 +10117,8 @@ but this is not currently done by default.
 </p><div class="node">
 <a name="Implementation-Packages"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package-Lock-Violations">Package Lock Violations</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Overview">Package Lock Overview</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package-Lock-Violations">Package Lock Violations</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Overview">Package Lock Overview</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Lock-Concepts">Package Lock Concepts</a>
 
 </div>
@@ -10139,8 +10139,8 @@ bound to one of the implementation packages of the locked package.
 </p><div class="node">
 <a name="Package-Lock-Violations"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Package-Locks-in-Compiled-Code">Package Locks in Compiled Code</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Implementation-Packages">Implementation Packages</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Package-Locks-in-Compiled-Code">Package Locks in Compiled Code</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Implementation-Packages">Implementation Packages</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Lock-Concepts">Package Lock Concepts</a>
 
 </div>
@@ -10194,8 +10194,8 @@ errors of type <code>sb-ext:symbol-package-locked-error</code>.
 </p><div class="node">
 <a name="Package-Locks-in-Compiled-Code"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Operations-Violating-Package-Locks">Operations Violating Package Locks</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Violations">Package Lock Violations</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Operations-Violating-Package-Locks">Operations Violating Package Locks</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Violations">Package Lock Violations</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Lock-Concepts">Package Lock Concepts</a>
 
 </div>
@@ -10226,7 +10226,7 @@ performance penalty in compiled code as long as they are not violated.
 </p><div class="node">
 <a name="Operations-Violating-Package-Locks"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Locks-in-Compiled-Code">Package Locks in Compiled Code</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Locks-in-Compiled-Code">Package Locks in Compiled Code</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Lock-Concepts">Package Lock Concepts</a>
 
 </div>
@@ -10355,7 +10355,7 @@ binding may be declared.
 <div class="node">
 <a name="Package-Lock-Dictionary"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Concepts">Package Lock Concepts</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Lock-Concepts">Package Lock Concepts</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Package-Locks">Package Locks</a>
 
 </div>
@@ -10533,8 +10533,8 @@ package itself.
 <div class="node">
 <a name="Threading"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Timers">Timers</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Package-Locks">Package Locks</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Timers">Timers</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Locks">Package Locks</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -10572,7 +10572,7 @@ platforms threads must be explicitly enabled at build-time, see
 <div class="node">
 <a name="Threading-basics"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Special-Variables">Special Variables</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Special-Variables">Special Variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -10903,8 +10903,8 @@ to be joined. The offending thread can be accessed using
 <div class="node">
 <a name="Special-Variables"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Atomic-Operations">Atomic Operations</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Threading-basics">Threading basics</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Atomic-Operations">Atomic Operations</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Threading-basics">Threading basics</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -10933,8 +10933,8 @@ implementations.
 </p><div class="node">
 <a name="Atomic-Operations"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Mutex-Support">Mutex Support</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Special-Variables">Special Variables</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Mutex-Support">Mutex Support</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Special-Variables">Special Variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11208,8 +11208,8 @@ user of <code>defcas</code> to ensure that the function specified is atomic.
 <div class="node">
 <a name="Mutex-Support"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Semaphores">Semaphores</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Atomic-Operations">Atomic Operations</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Semaphores">Semaphores</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Atomic-Operations">Atomic Operations</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11384,8 +11384,8 @@ returns without doing anything (if <code>if-not-owner</code> is :PUNT), signals 
 <div class="node">
 <a name="Semaphores"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Waitqueue_002fcondition-variables">Waitqueue/condition variables</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Mutex-Support">Mutex Support</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Waitqueue_002fcondition-variables">Waitqueue/condition variables</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Mutex-Support">Mutex Support</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11508,8 +11508,8 @@ or cleared.
 <a name="Waitqueue/condition-variables"></a>
 <a name="Waitqueue_002fcondition-variables"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Barriers">Barriers</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Semaphores">Semaphores</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Barriers">Barriers</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Semaphores">Semaphores</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11672,8 +11672,8 @@ must be held by this thread during this call.
 <div class="node">
 <a name="Barriers"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Sessions_002fDebugging">Sessions/Debugging</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Waitqueue_002fcondition-variables">Waitqueue/condition variables</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Sessions_002fDebugging">Sessions/Debugging</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Waitqueue_002fcondition-variables">Waitqueue/condition variables</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11741,8 +11741,8 @@ highly recommended reading for anyone programming at this level.
 <a name="Sessions/Debugging"></a>
 <a name="Sessions_002fDebugging"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Foreign-threads">Foreign threads</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Barriers">Barriers</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Foreign-threads">Foreign threads</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Barriers">Barriers</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11774,8 +11774,8 @@ input stream is managed by calls to <code>sb-thread:get-foreground</code>
 </p><div class="node">
 <a name="Foreign-threads"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Implementation-_0028Linux-x86_002fx86_002d64_0029">Implementation (Linux x86/x86-64)</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Sessions_002fDebugging">Sessions/Debugging</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Implementation-_0028Linux-x86_002fx86_002d64_0029">Implementation (Linux x86/x86-64)</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Sessions_002fDebugging">Sessions/Debugging</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11804,7 +11804,7 @@ synchronously triggered signals in foreign threads is subject to
 <a name="Implementation-(Linux-x86/x86-64)"></a>
 <a name="Implementation-_0028Linux-x86_002fx86_002d64_0029"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-threads">Foreign threads</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Foreign-threads">Foreign threads</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Threading">Threading</a>
 
 </div>
@@ -11858,8 +11858,8 @@ this has been found to be embarrassing.
 </p><div class="node">
 <a name="Timers"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Networking">Networking</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Threading">Threading</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Networking">Networking</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Threading">Threading</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -11978,8 +11978,8 @@ triggers.
 <div class="node">
 <a name="Networking"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Profiling">Profiling</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Timers">Timers</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Profiling">Profiling</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Timers">Timers</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -12007,7 +12007,7 @@ conventions attempt to balance between the BSD names and good lisp style.
 <div class="node">
 <a name="Sockets-Overview"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#General-Sockets">General Sockets</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#General-Sockets">General Sockets</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12040,8 +12040,8 @@ than "network-endian integers".
 <div class="node">
 <a name="General-Sockets"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Socket-Options">Socket Options</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Sockets-Overview">Sockets Overview</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Socket-Options">Socket Options</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Sockets-Overview">Sockets Overview</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12239,8 +12239,8 @@ request an input stream and get an output stream in response).
 <div class="node">
 <a name="Socket-Options"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#INET-Domain-Sockets">INET Domain Sockets</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#General-Sockets">General Sockets</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#INET-Domain-Sockets">INET Domain Sockets</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#General-Sockets">General Sockets</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12329,8 +12329,8 @@ updated with <code>setf</code>.
 <div class="node">
 <a name="INET-Domain-Sockets"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Local-_0028Unix_0029-Domain-Sockets">Local (Unix) Domain Sockets</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Socket-Options">Socket Options</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Local-_0028Unix_0029-Domain-Sockets">Local (Unix) Domain Sockets</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Socket-Options">Socket Options</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12420,8 +12420,8 @@ a list of protocol aliases
 <a name="Local-(Unix)-Domain-Sockets"></a>
 <a name="Local-_0028Unix_0029-Domain-Sockets"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Name-Service">Name Service</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#INET-Domain-Sockets">INET Domain Sockets</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Name-Service">Name Service</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#INET-Domain-Sockets">INET Domain Sockets</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12449,7 +12449,7 @@ also known as unix-domain sockets.
 <div class="node">
 <a name="Name-Service"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Local-_0028Unix_0029-Domain-Sockets">Local (Unix) Domain Sockets</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Local-_0028Unix_0029-Domain-Sockets">Local (Unix) Domain Sockets</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Networking">Networking</a>
 
 </div>
@@ -12518,8 +12518,8 @@ See gethostbyaddr(3) for details.
 <div class="node">
 <a name="Profiling"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Contributed-Modules">Contributed Modules</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Networking">Networking</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Contributed-Modules">Contributed Modules</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Networking">Networking</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -12541,7 +12541,7 @@ on individual functions, and a more “modern” statistical profiler.
 <div class="node">
 <a name="Deterministic-Profiler"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Statistical-Profiler">Statistical Profiler</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Statistical-Profiler">Statistical Profiler</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Profiling">Profiling</a>
 
 </div>
@@ -12610,7 +12610,7 @@ uncalled profiled functions are listed.
 <div class="node">
 <a name="Statistical-Profiler"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Deterministic-Profiler">Deterministic Profiler</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Deterministic-Profiler">Deterministic Profiler</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Profiling">Profiling</a>
 
 </div>
@@ -12946,8 +12946,8 @@ Moellmann's statistical profiler for CMUCL.
 </p><div class="node">
 <a name="Contributed-Modules"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Deprecation">Deprecation</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Profiling">Profiling</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Deprecation">Deprecation</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Profiling">Profiling</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -12976,7 +12976,7 @@ contributed modules.
 <a name="sb-aclrepl"></a>
 <a name="sb_002daclrepl"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dconcurrency">sb-concurrency</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dconcurrency">sb-concurrency</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13031,8 +13031,8 @@ some of the features of <code>sb-aclrepl</code>:
 <a name="sb-concurrency"></a>
 <a name="sb_002dconcurrency"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dcover">sb-cover</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002daclrepl">sb-aclrepl</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dcover">sb-cover</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002daclrepl">sb-aclrepl</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13453,8 +13453,8 @@ instead is recommended.
 <a name="sb-cover"></a>
 <a name="sb_002dcover"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dgrovel">sb-grovel</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dconcurrency">sb-concurrency</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dgrovel">sb-grovel</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dconcurrency">sb-concurrency</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13568,8 +13568,8 @@ result to <code>restore-coverage</code>.
 <a name="sb-grovel"></a>
 <a name="sb_002dgrovel"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dmd5">sb-md5</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dcover">sb-cover</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dmd5">sb-md5</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dcover">sb-cover</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13790,8 +13790,8 @@ the block exits.
 <a name="sb-md5"></a>
 <a name="sb_002dmd5"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dposix">sb-posix</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dgrovel">sb-grovel</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dposix">sb-posix</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dgrovel">sb-grovel</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13860,8 +13860,8 @@ terms, apart from the use of <code>rotate-byte</code> for bitwise rotation.
 <a name="sb-posix"></a>
 <a name="sb_002dposix"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002dqueue">sb-queue</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dmd5">sb-md5</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002dqueue">sb-queue</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dmd5">sb-md5</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -13897,7 +13897,7 @@ platforms.
 <div class="node">
 <a name="Lisp-names-for-C-names"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Types">Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Types">Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -13926,8 +13926,8 @@ CL symbols (<code>OPEN</code>, <code>CLOSE</code>, <code>SIGNAL</code> etc).
 </p><div class="node">
 <a name="Types"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Function-Parameters">Function Parameters</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-names-for-C-names">Lisp names for C names</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Function-Parameters">Function Parameters</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-names-for-C-names">Lisp names for C names</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -13953,7 +13953,7 @@ pathnames and strings as its arguments.
 <a name="File-descriptors"></a>
 <a name="File_002ddescriptors"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Filenames">Filenames</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Filenames">Filenames</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Types">Types</a>
 
 </div>
@@ -13991,7 +13991,7 @@ a <code>file-stream</code> designating the underlying file-descriptor.
 <div class="node">
 <a name="Filenames"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#File_002ddescriptors">File-descriptors</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#File_002ddescriptors">File-descriptors</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Types">Types</a>
 
 </div>
@@ -14045,8 +14045,8 @@ designator for a <code>pathname</code> designating the corresponding native name
 <div class="node">
 <a name="Function-Parameters"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Function-Return-Values">Function Return Values</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Types">Types</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Function-Return-Values">Function Return Values</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Types">Types</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -14081,8 +14081,8 @@ See <a href="#Functions-with-idiosyncratic-bindings">Functions with idiosyncrati
 <div class="node">
 <a name="Function-Return-Values"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Lisp-objects-and-C-structures">Lisp objects and C structures</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Function-Parameters">Function Parameters</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Lisp-objects-and-C-structures">Lisp objects and C structures</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Function-Parameters">Function Parameters</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -14104,8 +14104,8 @@ boolean.
 </p><div class="node">
 <a name="Lisp-objects-and-C-structures"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Functions-with-idiosyncratic-bindings">Functions with idiosyncratic bindings</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Function-Return-Values">Function Return Values</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Functions-with-idiosyncratic-bindings">Functions with idiosyncratic bindings</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Function-Return-Values">Function Return Values</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -14304,7 +14304,7 @@ slots for those structures.
 <div class="node">
 <a name="Functions-with-idiosyncratic-bindings"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-objects-and-C-structures">Lisp objects and C structures</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Lisp-objects-and-C-structures">Lisp objects and C structures</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#sb_002dposix">sb-posix</a>
 
 </div>
@@ -14344,8 +14344,8 @@ than C's printf) with format string <code>format</code> and arguments <code>args
 <a name="sb-queue"></a>
 <a name="sb_002dqueue"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#sb_002drotate_002dbyte">sb-rotate-byte</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dposix">sb-posix</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#sb_002drotate_002dbyte">sb-rotate-byte</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dposix">sb-posix</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -14360,7 +14360,7 @@ Since SBCL 1.0.38, the <code>sb-queue</code> module has been merged into the
 <a name="sb-rotate-byte"></a>
 <a name="sb_002drotate_002dbyte"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dqueue">sb-queue</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#sb_002dqueue">sb-queue</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Contributed-Modules">Contributed Modules</a>
 
 </div>
@@ -14392,8 +14392,8 @@ contains the bits of <code>integer</code>.
 <div class="node">
 <a name="Deprecation"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Concept-Index">Concept Index</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Contributed-Modules">Contributed Modules</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Concept-Index">Concept Index</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Contributed-Modules">Contributed Modules</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -14430,7 +14430,7 @@ are subject to censure.
 <a name="Why-Deprecate?"></a>
 <a name="Why-Deprecate_003f"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#The-Deprecation-Pipeline">The Deprecation Pipeline</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#The-Deprecation-Pipeline">The Deprecation Pipeline</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14504,8 +14504,8 @@ introspective tools such as <code>apropos</code> more useful.
 <div class="node">
 <a name="The-Deprecation-Pipeline"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Conditions">Deprecation Conditions</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Why-Deprecate_003f">Why Deprecate?</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Conditions">Deprecation Conditions</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Why-Deprecate_003f">Why Deprecate?</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14573,8 +14573,8 @@ error [cl] is signaled at run-time.
 <div class="node">
 <a name="Deprecation-Conditions"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Introspecting-Deprecation-Information">Introspecting Deprecation Information</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#The-Deprecation-Pipeline">The Deprecation Pipeline</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Introspecting-Deprecation-Information">Introspecting Deprecation Information</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#The-Deprecation-Pipeline">The Deprecation Pipeline</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14646,8 +14646,8 @@ a variable.
 <div class="node">
 <a name="Introspecting-Deprecation-Information"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Declaration">Deprecation Declaration</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Conditions">Deprecation Conditions</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Declaration">Deprecation Declaration</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Conditions">Deprecation Conditions</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14666,8 +14666,8 @@ the <code>sb-cltl2:function-information</code> and
 </p><div class="node">
 <a name="Deprecation-Declaration"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Examples">Deprecation Examples</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Introspecting-Deprecation-Information">Introspecting Deprecation Information</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Deprecation-Examples">Deprecation Examples</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Introspecting-Deprecation-Information">Introspecting Deprecation Information</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14730,8 +14730,8 @@ structure classes and condition classes as deprecated.
 <div class="node">
 <a name="Deprecation-Examples"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Deprecated-Interfaces-in-SBCL">Deprecated Interfaces in SBCL</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Declaration">Deprecation Declaration</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Deprecated-Interfaces-in-SBCL">Deprecated Interfaces in SBCL</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Declaration">Deprecation Declaration</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -14769,7 +14769,7 @@ Marking functions as deprecated:
    <div class="node">
 <a name="Deprecated-Interfaces-in-SBCL"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Examples">Deprecation Examples</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation-Examples">Deprecation Examples</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Deprecation">Deprecation</a>
 
 </div>
@@ -15062,8 +15062,8 @@ SBCL style. Deprecated as of 0.pre7.90 in December 2001. Deleted as of
 <div class="node">
 <a name="Concept-Index"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Function-Index">Function Index</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation">Deprecation</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Function-Index">Function Index</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Deprecation">Deprecation</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -15130,7 +15130,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <li><a href="#index-Interrupts-81">Interrupts</a>: <a href="#Unknown-Locations-and-Interrupts">Unknown Locations and Interrupts</a></li>
 <li><a href="#index-Introspecting-Deprecation-Information-679">Introspecting Deprecation Information</a>: <a href="#Introspecting-Deprecation-Information">Introspecting Deprecation Information</a></li>
 <li><a href="#index-ldb-12">ldb</a>: <a href="#Runtime-Options">Runtime Options</a></li>
-<li><a href="#index-ldb-1">ldb</a>: <a href="#Reporting-Bugs">Reporting Bugs</a></li>
+<li><a href="#index-ldb-1">ldb</a>: <a href="#Reporting-Bugs">バグ報告</a></li>
 <li><a href="#index-ldb_002c-disabling-131">ldb, disabling</a>: <a href="#Enabling-and-Disabling-the-Debugger">Enabling and Disabling the Debugger</a></li>
 <li><a href="#index-ldb_002c-disabling-13">ldb, disabling</a>: <a href="#Runtime-Options">Runtime Options</a></li>
 <li><a href="#index-ldb_002c-enabling-130">ldb, enabling</a>: <a href="#Enabling-and-Disabling-the-Debugger">Enabling and Disabling the Debugger</a></li>
@@ -15198,8 +15198,8 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
    </ul><div class="node">
 <a name="Function-Index"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Variable-Index">Variable Index</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Concept-Index">Concept Index</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Variable-Index">Variable Index</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Concept-Index">Concept Index</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -15656,8 +15656,8 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
    </ul><div class="node">
 <a name="Variable-Index"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Type-Index">Type Index</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Function-Index">Function Index</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Type-Index">Type Index</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Function-Index">Function Index</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -15698,8 +15698,8 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
    </ul><div class="node">
 <a name="Type-Index"></a>
 <p></p><hr>
-Next:&nbsp;<a rel="next" accesskey="n" href="#Colophon">Colophon</a>,
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Index">Variable Index</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Colophon">Colophon</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Variable-Index">Variable Index</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
@@ -15783,7 +15783,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
    </ul><div class="node">
 <a name="Colophon"></a>
 <p></p><hr>
-Previous:&nbsp;<a rel="previous" accesskey="p" href="#Type-Index">Type Index</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Type-Index">Type Index</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
