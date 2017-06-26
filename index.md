@@ -150,7 +150,7 @@
 </li><li><a href="#Global-and-Always_002dBound-variables">6.4 Global and Always-Bound variables</a>
 </li><li><a href="#Miscellaneous-Efficiency-Issues">6.5 Miscellaneous Efficiency Issues</a>
 </li></ul>
-</li><li><a name="toc_Beyond-the-ANSI-Standard" href="#Beyond-the-ANSI-Standard">7 Beyond the ANSI Standard</a>
+</li><li><a name="toc_Beyond-the-ANSI-Standard" href="#Beyond-the-ANSI-Standard">7 ANSIスタンダードを越えて</a>
 <ul>
 <li><a href="#Reader-Extensions">7.1 Reader Extensions</a>
 </li><li><a href="#Package_002dLocal-Nicknames">7.2 Package-Local Nicknames</a>
@@ -439,7 +439,7 @@ provided with absolutely no warranty. See the <samp><span class="file">COPYING</
 </li><li><a accesskey="4" href="#Compiler">Compiler</a>
 </li><li><a accesskey="5" href="#Debugger">Debugger</a>
 </li><li><a accesskey="6" href="#Efficiency">Efficiency</a>
-</li><li><a accesskey="7" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+</li><li><a accesskey="7" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 </li><li><a accesskey="8" href="#Foreign-Function-Interface">Foreign Function Interface</a>
 </li><li><a accesskey="9" href="#Pathnames">Pathnames</a>
 </li><li><a href="#Streams">Streams</a>
@@ -4661,7 +4661,7 @@ and <code>ldb</code> (the low-level debugger).  See also <code>enable-debugger</
 <div class="node">
 <a name="Efficiency"></a>
 <p></p><hr>
-次:&nbsp;<a rel="next" accesskey="n" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Debugger">Debugger</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
@@ -5105,11 +5105,9 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 </div>
 
 <!-- node-name,  next,  previous,  up -->
-<h2 class="chapter">7 Beyond the ANSI Standard</h2>
+<h2 class="chapter">7 ANSIスタンダードを越えて</h2>
 
-<p>SBCL is derived from CMUCL, which implements many extensions to the
-ANSI standard. SBCL doesn't support as many extensions as CMUCL, but
-it still has quite a few.  See <a href="#Contributed-Modules">Contributed Modules</a>.
+<p>CMUCLから派生したSBCLでは、ANSIスタンダードに加えて多くのエクステンションを実装しています。SBCLはCMUCLほど多くはエクステンションをサポートしていませんが、それでも少なくない数があります。こちらを参照してください <a href="#Contributed-Modules">Contributed Modules</a>.
 
 </p><ul class="menu">
 <li><a accesskey="1" href="#Reader-Extensions">Reader Extensions</a>
@@ -5134,7 +5132,7 @@ it still has quite a few.  See <a href="#Contributed-Modules">Contributed Module
 <a name="Reader-Extensions"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -5178,7 +5176,7 @@ normalized are escaped during printing.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Package-Variance">Package Variance</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Reader-Extensions">Reader Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -5310,7 +5308,7 @@ removed, and <code>nil</code> otherwise.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Garbage-Collection">Garbage Collection</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Package_002dLocal-Nicknames">Package-Local Nicknames</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -5355,7 +5353,7 @@ with restarts provided for user to specify what action should be taken.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Metaobject-Protocol">Metaobject Protocol</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Package-Variance">Package Variance</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -5608,7 +5606,7 @@ promotion. Available on <code>gencgc</code> platforms only.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Extensible-Sequences">Extensible Sequences</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Garbage-Collection">Garbage Collection</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -5792,7 +5790,7 @@ to the constant <code>+slot-unbound+</code>.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Support-For-Unix">Support For Unix</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Metaobject-Protocol">Metaobject Protocol</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -6227,7 +6225,7 @@ created by calling the following generic function:
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Unicode-Support">Unicode Support</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Extensible-Sequences">Extensible Sequences</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -6477,7 +6475,7 @@ status slot.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Support-For-Unix">Support For Unix</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -6946,7 +6944,7 @@ it defaults to 80 characters
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Unicode-Support">Unicode Support</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7023,7 +7021,7 @@ handled by any other handler, it will be muffled.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Customization-Hooks-for-Users">Customization Hooks for Users</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7045,7 +7043,7 @@ the <code>inspect</code> prompt.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Tools-To-Help-Developers">Tools To Help Developers</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7065,7 +7063,7 @@ accessor <code>sb-ext:name-conflict-symbols</code>.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Random-Number-Generation">Random Number Generation</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Resolution-of-Name-Conflicts">Resolution of Name Conflicts</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7229,7 +7227,7 @@ unspecified.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Hash-Table-Extensions">Hash Table Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7341,7 +7339,7 @@ different type of generator.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Stale-Extensions">Stale Extensions</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Random-Number-Generation">Random Number Generation</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7433,7 +7431,7 @@ version 1[.0.0...] or greater.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Efficiency-Hacks">Efficiency Hacks</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Miscellaneous-Extensions">Miscellaneous Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7461,7 +7459,7 @@ list.
 <a name="Efficiency-Hacks"></a>
 <p></p><hr>
 前:&nbsp;<a rel="previous" accesskey="p" href="#Stale-Extensions">Stale Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
 
 </div>
 
@@ -7522,7 +7520,7 @@ type will never change, which can make type testing
 <a name="Foreign-Function-Interface"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Pathnames">Pathnames</a>,
-前:&nbsp;<a rel="previous" accesskey="p" href="#Beyond-the-ANSI-Standard">Beyond the ANSI Standard</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
