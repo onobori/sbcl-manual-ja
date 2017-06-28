@@ -13,10 +13,10 @@
 </li><li><a href="#Reporting-Bugs">1.3 バグ報告</a>
 <ul>
 <li><a href="#Reporting-Bugs">1.3.1 バグ報告を効果的に行うには</a>
-</li><li><a href="#Reporting-Bugs">1.3.2 Signal Related Bugs</a>
+</li><li><a href="#Reporting-Bugs">1.3.2 シグナル関連のバグ</a>
 </li></ul>
 </li></ul>
-</li><li><a name="toc_Introduction" href="#Introduction">2 Introduction</a>
+</li><li><a name="toc_Introduction" href="#Introduction">2 イントロダクション</a>
 <ul>
 <li><a href="#ANSI-Conformance">2.1 ANSI Conformance</a>
 </li><li><a href="#Extensions">2.2 Extensions</a>
@@ -49,7 +49,7 @@
 </li></ul>
 </li><li><a href="#History-and-Implementation-of-SBCL">2.7 History and Implementation of SBCL</a>
 </li></ul>
-</li><li><a name="toc_Starting-and-Stopping" href="#Starting-and-Stopping">3 Starting and Stopping</a>
+</li><li><a name="toc_Starting-and-Stopping" href="#Starting-and-Stopping">3 開始と停止</a>
 <ul>
 <li><a href="#Starting-SBCL">3.1 Starting SBCL</a>
 <ul>
@@ -72,7 +72,7 @@
 </li><li><a href="#Initialization-Files">3.4 Initialization Files</a>
 </li><li><a href="#Initialization-and-Exit-Hooks">3.5 Initialization and Exit Hooks</a>
 </li></ul>
-</li><li><a name="toc_Compiler" href="#Compiler">4 Compiler</a>
+</li><li><a name="toc_Compiler" href="#Compiler">4 コンパイラ</a>
 <ul>
 <li><a href="#Diagnostic-Messages">4.1 Diagnostic Messages</a>
 <ul>
@@ -434,9 +434,9 @@ CMUCLはカーネギーメロン大学で開発され、後にパブリックド
 
 <ul class="menu">
 <li><a accesskey="1" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>
-</li><li><a accesskey="2" href="#Introduction">Introduction</a>
-</li><li><a accesskey="3" href="#Starting-and-Stopping">Starting and Stopping</a>
-</li><li><a accesskey="4" href="#Compiler">Compiler</a>
+</li><li><a accesskey="2" href="#Introduction">イントロダクション</a>
+</li><li><a accesskey="3" href="#Starting-and-Stopping">開始と停止</a>
+</li><li><a accesskey="4" href="#Compiler">コンパイラ</a>
 </li><li><a accesskey="5" href="#Debugger">Debugger</a>
 </li><li><a accesskey="6" href="#Efficiency">Efficiency</a>
 </li><li><a accesskey="7" href="#Beyond-the-ANSI-Standard">ANSIスタンダードを越えて</a>
@@ -460,7 +460,7 @@ CMUCLはカーネギーメロン大学で開発され、後にパブリックド
 <div class="node">
 <a name="Getting-Support-and-Reporting-Bugs"></a>
 <p></p><hr>
-次:&nbsp;<a rel="next" accesskey="n" href="#Introduction">Introduction</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Introduction">イントロダクション</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Top">Top</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
@@ -486,32 +486,33 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Getting-Support-and-Reporting-Bugs">�
 <!-- node-name,  next,  previous,  up -->
 <h3 class="section">1.1 ボランティアサポート</h3>
 
-<p>Your primary source of SBCL support should probably be the mailing
-list <strong>sbcl-help</strong>: in addition to other users SBCL developers
-monitor this list and are available for advice. As an anti-spam
-measure subscription is required for posting:
+<p>あなたがSBCLのサポートを受ける第一の候補はメーリングリストの
+<strong>sbcl-help</strong>になるでしょう。: また他のユーザーのために、
+SBCL開発者はこのリストを監視しアドバイスが出来る状態にしています。
+ただし、スパム対策のため、投稿には購読が必要です。
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="https://lists.sourceforge.net/lists/listinfo/sbcl-help">https://lists.sourceforge.net/lists/listinfo/sbcl-help</a>
 
-   </p><p>Remember that the people answering your question are volunteers, so
-you stand a much better chance of getting a good answer if you ask a
-good question.
+   </p><p>忘れないでいて欲しいのですが、あなたの質問に答える人たちは
+ボランティアなので、いい質問をすればいい回答を貰える可能性が高まるでしょう。
 
-   </p><p>Before sending mail, check the list archives at either
+   </p><p>メールを送る前にはメーリングリストのアーカイブもチェックすると良いでしょう。
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://sourceforge.net/mailarchive/forum.php?forum_name=sbcl-help">http://sourceforge.net/mailarchive/forum.php?forum_name=sbcl-help</a>
 
-   </p><p>or
+   </p><p>あるいは
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://news.gmane.org/gmane.lisp.steel-bank.general">http://news.gmane.org/gmane.lisp.steel-bank.general</a>
 
-   </p><p>to see if your question has been answered already. Checking the bug
-database is also worth it See <a href="#Reporting-Bugs">バグ報告</a>, to see if the issue
-is already known.
+   </p><p>を見ればあなたの疑問が既に回答されているかもしれません。 Checking the bug
+バグ報告データベースも同様に見る価値があります。<a href="#Reporting-Bugs">バグ報告</a>を見れば、
+既に問題が報告されているかもしれません。
 
-   </p><p>For general advice on asking good questions, see
+   </p><p>いい質問をするための一般的なアドバイスは以下を参照してください。
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.catb.org/%7Eesr/faqs/smart-questions.html">http://www.catb.org/~esr/faqs/smart-questions.html</a>.
+
+   (訳註:和訳は次のサイトにあります</p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.ranvis.com/articles/smart-questions.ja.html">http://www.ranvis.com/articles/smart-questions.ja.html</a>.)
 
 </p><div class="node">
 <a name="Commercial-Support"></a>
@@ -589,7 +590,7 @@ at
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.chiark.greenend.org.uk/%7Esgtatham/bugs.html">http://www.chiark.greenend.org.uk/~sgtatham/bugs.html</a>.
 
-</p><h4 class="subsection">1.3.2 Signal Related Bugs</h4>
+</p><h4 class="subsection">1.3.2 シグナル関連のバグ</h4>
 
 <p>If you run into a signal related bug, you are getting fatal errors
 such as <code>signal N is [un]blocked</code> or just hangs, and you want to
@@ -628,14 +629,14 @@ other versions of SBCL, OS, ...
 <div class="node">
 <a name="Introduction"></a>
 <p></p><hr>
-次:&nbsp;<a rel="next" accesskey="n" href="#Starting-and-Stopping">Starting and Stopping</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Starting-and-Stopping">開始と停止</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Getting-Support-and-Reporting-Bugs">サポートを得る方法とバグ報告の方法</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
 
 <!-- node-name,  next,  previous,  up -->
-<h2 class="chapter">2 Introduction</h2>
+<h2 class="chapter">2 イントロダクション</h2>
 
 <p>SBCL is a mostly-conforming implementation of the ANSI Common Lisp
 standard. This manual focuses on behavior which is specific to SBCL,
@@ -656,7 +657,7 @@ Lisp.
 <a name="ANSI-Conformance"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Extensions">Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -672,7 +673,7 @@ See <a href="#Reporting-Bugs">バグ報告</a>.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Idiosyncrasies">Idiosyncrasies</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#ANSI-Conformance">ANSI Conformance</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -766,7 +767,7 @@ by SBCL. See <a href="#sb_002dmd5">sb-md5</a>.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Development-Tools">Development Tools</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Extensions">Extensions</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -946,7 +947,7 @@ case, but still isn't as of SBCL 0.7.6.)
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#More-SBCL-Information">More SBCL Information</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Idiosyncrasies">Idiosyncrasies</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -1023,7 +1024,7 @@ in the executable.  For further information, See <a href="#Function-sb_002dext_0
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Development-Tools">Development Tools</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -1134,7 +1135,7 @@ it is not installed by default.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#History-and-Implementation-of-SBCL">History and Implementation of SBCL</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#More-SBCL-Information">More SBCL Information</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -1237,7 +1238,7 @@ freely available at <a href="http://www.lisp.org/mop/">http://www.lisp.org/mop/<
 <a name="History-and-Implementation-of-SBCL"></a>
 <p></p><hr>
 前:&nbsp;<a rel="previous" accesskey="p" href="#More-Common-Lisp-Information">More Common Lisp Information</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">Introduction</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Introduction">イントロダクション</a>
 
 </div>
 
@@ -1350,14 +1351,14 @@ itself.
 <div class="node">
 <a name="Starting-and-Stopping"></a>
 <p></p><hr>
-次:&nbsp;<a rel="next" accesskey="n" href="#Compiler">Compiler</a>,
-前:&nbsp;<a rel="previous" accesskey="p" href="#Introduction">Introduction</a>,
+次:&nbsp;<a rel="next" accesskey="n" href="#Compiler">コンパイラ</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Introduction">イントロダクション</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
 
 <!-- node-name,  next,  previous,  up -->
-<h2 class="chapter">3 Starting and Stopping</h2>
+<h2 class="chapter">3 開始と停止</h2>
 
 <ul class="menu">
 <li><a accesskey="1" href="#Starting-SBCL">Starting SBCL</a>
@@ -1371,7 +1372,7 @@ Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 <a name="Starting-SBCL"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Stopping-SBCL">Stopping SBCL</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">開始と停止</a>
 
 </div>
 
@@ -1470,7 +1471,7 @@ this via the <code>--script</code> command line option.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Command-Line-Options">Command Line Options</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Starting-SBCL">Starting SBCL</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">開始と停止</a>
 
 </div>
 
@@ -1737,7 +1738,7 @@ the flexibility and robustness of Common Lisp. See <a href="#Debugger-Entry">Deb
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Initialization-Files">Initialization Files</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Stopping-SBCL">Stopping SBCL</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">開始と停止</a>
 
 </div>
 
@@ -1921,7 +1922,7 @@ piping output from SBCL to <code>head -n1</code> or similar.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Initialization-and-Exit-Hooks">Initialization and Exit Hooks</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Command-Line-Options">Command Line Options</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">開始と停止</a>
 
 </div>
 
@@ -1962,7 +1963,7 @@ of FASLs (see <a href="#FASL-Format">FASL Format</a>), etc.
 <a name="Initialization-and-Exit-Hooks"></a>
 <p></p><hr>
 前:&nbsp;<a rel="previous" accesskey="p" href="#Initialization-Files">Initialization Files</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">Starting and Stopping</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Starting-and-Stopping">開始と停止</a>
 
 </div>
 
@@ -1999,13 +2000,13 @@ these hooks.
 <a name="Compiler"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Debugger">Debugger</a>,
-前:&nbsp;<a rel="previous" accesskey="p" href="#Starting-and-Stopping">Starting and Stopping</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Starting-and-Stopping">開始と停止</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
 
 <!-- node-name,  next,  previous,  up -->
-<h2 class="chapter">4 Compiler</h2>
+<h2 class="chapter">4 コンパイラ</h2>
 
 <p>This chapter will discuss most compiler issues other than efficiency,
 including compiler error messages, the SBCL compiler's unusual
@@ -2495,7 +2496,7 @@ one level.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Policy">Compiler Policy</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Diagnostic-Messages">Diagnostic Messages</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">コンパイラ</a>
 
 </div>
 
@@ -2806,7 +2807,7 @@ they may, alas, remain in the system for a while.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Compiler-Errors">Compiler Errors</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Handling-of-Types">Handling of Types</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">コンパイラ</a>
 
 </div>
 
@@ -3073,7 +3074,7 @@ intended to be eg. wrapped around the compilation of all files in the same syste
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Policy">Compiler Policy</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">コンパイラ</a>
 
 </div>
 
@@ -3198,7 +3199,7 @@ character position and gives up on the entire source file.
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Interpreter">Interpreter</a>,
 前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler-Errors">Compiler Errors</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">コンパイラ</a>
 
 </div>
 
@@ -3266,7 +3267,7 @@ a more efficient calling convention that forbids redefinition.
 <a name="Interpreter"></a>
 <p></p><hr>
 前:&nbsp;<a rel="previous" accesskey="p" href="#Open-Coding-and-Inline-Expansion">Open Coding and Inline Expansion</a>,
-Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">Compiler</a>
+Up:&nbsp;<a rel="up" accesskey="u" href="#Compiler">コンパイラ</a>
 
 </div>
 
@@ -3295,7 +3296,7 @@ to <code>:interpret</code>, an interpreter will be used.
 <a name="Debugger"></a>
 <p></p><hr>
 次:&nbsp;<a rel="next" accesskey="n" href="#Efficiency">Efficiency</a>,
-前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler">Compiler</a>,
+前:&nbsp;<a rel="previous" accesskey="p" href="#Compiler">コンパイラ</a>,
 Up:&nbsp;<a rel="up" accesskey="u" href="#Top">Top</a>
 
 </div>
