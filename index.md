@@ -504,15 +504,14 @@ SBCL開発者はこのリストを監視しアドバイスが出来る状態に�
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://news.gmane.org/gmane.lisp.steel-bank.general">http://news.gmane.org/gmane.lisp.steel-bank.general</a>
 
-   </p><p>を見ればあなたの疑問が既に回答されているかもしれません。 Checking the bug
-バグ報告データベースも同様に見る価値があります。<a href="#Reporting-Bugs">バグ報告</a>を見れば、
-既に問題が報告されているかもしれません。
+   </p><p>を見ればあなたの疑問が既に回答されているかもしれません。 
+   バグ報告データベースも同様に見る価値があります。<a href="#Reporting-Bugs">バグ報告</a>を見れば、既に問題が報告されているかもしれません。
 
    </p><p>いい質問をするための一般的なアドバイスは以下を参照してください。
 
    </p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.catb.org/%7Eesr/faqs/smart-questions.html">http://www.catb.org/~esr/faqs/smart-questions.html</a>.
 
-   (訳註:和訳は次のサイトにあります</p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.ranvis.com/articles/smart-questions.ja.html">http://www.ranvis.com/articles/smart-questions.ja.html</a>.)
+   (訳註:和訳は次のサイトにあります)</p><p>&nbsp;<!-- /@w --> &nbsp;<!-- /@w --> <a href="http://www.ranvis.com/articles/smart-questions.ja.html">http://www.ranvis.com/articles/smart-questions.ja.html</a>.
 
 </p><div class="node">
 <a name="Commercial-Support"></a>
